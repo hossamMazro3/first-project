@@ -1,0 +1,4 @@
+1,Domty,7,cheese,50,1
+2,mega,5,ice_kreem,90,2
+3,koki,30,chicken,15,3
+5,atyab,30,chicken,7,3
